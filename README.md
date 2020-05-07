@@ -1,4 +1,4 @@
-## FUN WITH GENETIC ALGORITHM
+## Fun with genetic algorithm
 
 ### Description
 
